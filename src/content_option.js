@@ -122,7 +122,7 @@ const dataportfolio3 = [
                 ];
                 const dataportfolio7= [
                     {
-                        img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1698940203/MzczNDI5NDkzXzg3MTg3NjEwMDk2NzU2Nl80NTE0MjMxMTM4ODQyOTA1Njg5X25fZHdlZmlw/grid_square",
+                        img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1698940206/273743889_487862882734233_8037118014347834366_n_evv6fe.jpg",
                         description: "This cafeteria decoration project at the University Collège LaSalle Tunis embodies a warm and welcoming space dedicated to students. Vibrant colors, comfortable furniture, and creative design elements come together to create a friendly and stimulating atmosphere,Every corner of this cafeteria has been designed to promote relaxation, learning, and social interactions. Individual work areas are complemented by communal relaxation spaces where students can gather to chat, study, or simply unwind.",
                         link: "#",
                     }, 
