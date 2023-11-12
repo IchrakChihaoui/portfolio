@@ -74,7 +74,7 @@ const services = [{
 
 const dataportfolio = [{
         id:"1",
-        img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1697631038/cmVuZHVfMV9zZG1vZGc=/grid_square",
+        img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1697631038/rendu_1_sdmodg.jpg",
         description: "This project highlights the successful transformation of an indoor and outdoor space into a comfortable and elegant place. The living room, bathed in natural light, serves as the focal point of the house, providing a relaxing atmosphere with soft tones and elegant furniture.",
         link: "#",
     },
@@ -82,7 +82,7 @@ const dataportfolio = [{
 ];
 const dataportfolio2 = [
 {
-    img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1697644703/c29maV8xMDA1X2kwMWRwZQ==/grid_square",
+    img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1697644703/sofi_1005_i01dpe.jpg",
     description: "This project showcases the exquisite transformation of a hair salon into an elegant and welcoming space. Every detail has been meticulously designed to cultivate an atmosphere that harmoniously blends style and comfort. Calming colors, strategically placed lighting, and decorative mirrors contribute to an added touch of sophistication. The customer areas offer a relaxing ambiance, while the hairdresser workstations are both functional and inspiring.",
     link: "#",
 }, 
@@ -90,7 +90,7 @@ const dataportfolio2 = [
 ];
 const dataportfolio3 = [
     {
-        img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1697721998/MzczNDgyMTc0XzY1MzQ4OTE2MzQyMTQ0OV8xODE4NDA0MDQxODAxNzg5NDgzX25fcHYwMWht/grid_square",
+        img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1697721998/373482174_653489163421449_1818404041801789483_n_pv01hm.jpg",
         description: "This project showcases our custom mezzanine construction project for a delivery company seeking efficiency and space optimization. The mezzanine, tailor-made, adds a new dimension to the existing warehouse, creating additional storage space without compromising ground-level circulation ,Sturdy and durable materials ensure employee safety and increased storage capacity for packages and products. The installation includes order preparation areas, intelligently arranged shelving, and workspaces for employees,",
         link: "#",
     }, 
@@ -98,7 +98,7 @@ const dataportfolio3 = [
     ];
     const dataportfolio4 = [
         {
-            img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1697723491/MzkzODUyMDU5Xzg4NzMzMTY1MjgxMzkwNF8xMDU2OTk2NTY0NzkxMjM4NjY3X25fdXJpcHBq/grid_square",
+            img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1697723491/393852059_887331652813904_1056996564791238667_n_urippj.jpg",
             description: "This project highlights our recent successful transformation of a development firm into a space that exudes innovation and creativity. Vibrant colors, open spaces, and modern design elements create an inspiring work environment,The layout has been designed to encourage collaboration, with flexible workspaces, open meeting areas, and relaxation corners to promote the exchange of ideas. The walls are adorned with stimulating graphic elements, reflecting the innovative spirit of the company.",
             link: "#",
         }, 
@@ -106,7 +106,7 @@ const dataportfolio3 = [
         ];
         const dataportfolio5= [
             {
-                img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1698611300/Mzk0NjgyNzQ0XzkwNTY2MjU2Nzc4NzY4Ml84MDI2MDA1NzYzNDE2NjY1OTIzX25fbGhqZmxl/grid_square",
+                img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1698611300/394682744_905662567787682_8026005763416665923_n_lhjfle.jpg",
                 description: "This project showcases the transformation of a duplex into a renovated and redesigned space with 3D renderings for realistic visualization. Every corner of this interior has been reimagined to maximize space utilization and aesthetics.",
                 link: "#",
             }, 
@@ -114,7 +114,7 @@ const dataportfolio3 = [
             ];
             const dataportfolio6= [
                 {
-                    img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1698615331/MjUxNTgzNzAwXzQ4OTE1NjI1ODQyMzg3NjBfNTQ3ODk1MTI1ODA4OTU4NzA1NF9uX2V2bWF6dw==/grid_square",
+                    img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1698614780/251583700_4891562584238760_5478951258089587054_n_aruvhi.jpg",
                     description: "This project showcases an impressive architectural evolution of a building through the reconstruction of the staircase, the addition of a second floor, and the renovation of the facade. Every aspect of this transformation has been meticulously planned to reinvent the aesthetics and functionality of the structure,The staircase, once neglected, has been redesigned to blend safety and elegance. The addition of the second floor has expanded the living space while preserving architectural integrity. The facade has been revitalized, giving the building a new, modern, and attractive visual identity",
                     link: "#",
                 }, 

@@ -45,13 +45,13 @@ export const Portfolio = ({ route }) => {
 
         <div className="mb-5 po_items_ho portfolio-container">
          
-         { dataportfolio7.map((data, i) => {
+         { dataportfolio2.map((data, i) => {
            return (
              <div key={i} className="po_item">
                <img src={data.img} alt="" />
                <div className="content">
                  <p>{data.description}</p>
-                 <Link to="/details7" className="text_2">View Project</Link> 
+                 <Link to="/details2" className="text_2">View Project</Link> 
                  {/* <button onPress={() => navigation.navigate(`/details`,{dataportfolio2 })}>View Project</button> */}
                </div>
              </div>
@@ -59,24 +59,23 @@ export const Portfolio = ({ route }) => {
          })}
        </div> 
 
+
         <div className="mb-5 po_items_ho portfolio-container">
          
-          { dataportfolio2.map((data, i) => {
-            return (
-              <div key={i} className="po_item">
-                <img src={data.img} alt="" />
-                <div className="content">
-                  <p>{data.description}</p>
-                  <Link to="/details2" className="text_2">View Project</Link> 
-                  {/* <button onPress={() => navigation.navigate(`/details`,{dataportfolio2 })}>View Project</button> */}
-                </div>
-              </div>
-            );
-          })}
-        </div> 
+         { dataportfolio3.map((data, i) => {
+           return (
+             <div key={i} className="po_item">
+               <img src={data.img} alt="" />
+               <div className="content">
+                 <p>{data.description}</p>
+                 <Link to="/details3" className="text_2">View Project</Link> 
+                 {/* <button onPress={() => navigation.navigate(`/details`,{dataportfolio2 })}>View Project</button> */}
+               </div>
+             </div>
+           );
+         })}
+       </div> 
 
-       
-       
        <div className="mb-5 po_items_ho portfolio-container">
          
          { dataportfolio4.map((data, i) => {
@@ -92,6 +91,7 @@ export const Portfolio = ({ route }) => {
            );
          })}
        </div> 
+
        <div className="mb-5 po_items_ho portfolio-container">
          
          { dataportfolio5.map((data, i) => {
@@ -106,7 +106,8 @@ export const Portfolio = ({ route }) => {
              </div>
            );
          })}
-       </div> 
+       </div>
+
        <div className="mb-5 po_items_ho portfolio-container">
          
          { dataportfolio6.map((data, i) => {
@@ -122,21 +123,30 @@ export const Portfolio = ({ route }) => {
            );
          })}
        </div> 
-       <div className="mb-5 po_items_ho portfolio-container">
+      
+
+        <div className="mb-5 po_items_ho portfolio-container">
          
-         { dataportfolio3.map((data, i) => {
+         { dataportfolio7.map((data, i) => {
            return (
              <div key={i} className="po_item">
                <img src={data.img} alt="" />
                <div className="content">
                  <p>{data.description}</p>
-                 <Link to="/details3" className="text_2">View Project</Link> 
+                 <Link to="/details7" className="text_2">View Project</Link> 
                  {/* <button onPress={() => navigation.navigate(`/details`,{dataportfolio2 })}>View Project</button> */}
                </div>
              </div>
            );
          })}
        </div> 
+
+       
+       
+       
+       
+       
+      
        
       
        
