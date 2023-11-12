@@ -6,7 +6,7 @@ import { logotext ,socialprofils } from "../content_option";
 import Themetoggle from "../components/themetoggle";
 
 const Headermain = () => {
-  const [isActive, setActive] = useState("false");
+  const [isActive, setActive] = useState("true");
 
   const handleToggle = () => {
     setActive(!isActive);
