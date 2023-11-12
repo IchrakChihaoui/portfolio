@@ -215,17 +215,17 @@ const dataportfolioo4 = [{
     link: "#",
 },
 {
-    img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1697723505/MzkzNzI4MTQyXzMxNTkyNjM0NDM5NDI2MF84OTU3Nzk4ODYxMDQ5MjQ3NDQ4X25fcTlleWx2/grid_square",
+    img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1697723491/393852059_887331652813904_1056996564791238667_n_urippj.jpg",
    
     link: "#",
 },
 {
-    img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1697723500/MzkzMTg2MzY0XzM1MTY2Nzc2NDEwMTgzOV80NTk0NjQ5MDczOTA2ODU3Mjc0X25fZ2l3Mzhs/grid_square",
+    img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1697723502/393216101_867652251740558_8387912250772668004_n_dccdcy.jpg",
    
     link: "#",
 },
 {
-    img: "https://res-console.cloudinary.com/dmpaf245l/thumbnails/v1/image/upload/v1697723506/MzkzNzM5MTA4XzEyNDA3NTA3NDY2MjA2MjNfNDE0NzM3OTI4ODk4MzYyOTlfbl9kdmlsbWY=/grid_square",
+    img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1697723502/393246508_1770227266757104_3065668886863888846_n_owgwrr.jpg",
     
     link: "#",
 },
@@ -237,7 +237,7 @@ const dataportfolioo4 = [{
 
 ];
 const dataportfolioo5 = [{
-    img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1698614717/146605554_880417689389227_5233300805225054917_n_bpzwmc.jpg",
+    img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1699809907/393975538_1417947172102068_4663321807982797810_n_pgh1od.jpg",
   
     link: "#",
 },
@@ -305,7 +305,11 @@ const dataportfolioo6 = [{
    
     link: "#",
 },
-
+{
+    img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1698614717/146605554_880417689389227_5233300805225054917_n_bpzwmc.jpg",
+   
+    link: "#",
+},
 ];
 const dataportfolioo7 = [{
     img: "https://res.cloudinary.com/dmpaf245l/image/upload/v1698940202/273662708_346023213905395_7477788301102578205_n_iykp7c.jpg",
