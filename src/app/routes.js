@@ -12,6 +12,7 @@ import { Details4 } from "../pages/portfolio/details4";
 import { Details5 } from "../pages/portfolio/details5";
 import { Details6 } from "../pages/portfolio/details6";
 import { Details7 } from "../pages/portfolio/details7";
+import { Details8 } from "../pages/portfolio/details8";
 import { Socialicons } from "../components/socialicons";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 
@@ -38,6 +39,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/details5" element={<Details5 />} />
         <Route path="/details6" element={<Details6 />} />
         <Route path="/details7" element={<Details7 />} />
+        <Route path="/details8" element={<Details8 />} />
 
         <Route path="*" element={<Home />} />
       </Routes>

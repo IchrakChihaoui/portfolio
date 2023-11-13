@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
-import { dataportfolio, meta ,dataportfolio2,dataportfolio3,dataportfolio4,dataportfolio5,dataportfolio6,dataportfolio7 } from "../../content_option";
+import { dataportfolio, meta ,dataportfolio2,dataportfolio3,dataportfolio4,dataportfolio5,dataportfolio6,dataportfolio7,dataportfolio8 } from "../../content_option";
 import { Link ,useNavigate ,useParams  } from "react-router-dom";
 
 
@@ -140,6 +140,26 @@ export const Portfolio = ({ route }) => {
            );
          })}
        </div> 
+       <div className="mb-5 po_items_ho portfolio-container">
+  <video width="1100" controls>
+    <source src="https://res.cloudinary.com/dmpaf245l/video/upload/v1699887531/Cuisine_Final-1_ikz5rc.mp4" type="video/mp4"/>
+   
+  </video>
+  
+</div>
+<div className="mb-5 po_items_ho portfolio-container">
+  <video width="1100" controls>
+    <source src="https://res.cloudinary.com/dmpaf245l/video/upload/v1699889748/Vid%C3%A9o_sans_titre_R%C3%A9alis%C3%A9e_avec_Clipchamp_irjnqt.mp4" type="video/mp4"/>
+   
+  </video>
+  
+</div>
+
+
+
+
+
+
 
        
        
